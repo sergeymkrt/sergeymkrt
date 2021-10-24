@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sergeymkrt
 - 👀 I’m interested in C#, ASP.NET Core, SQL and other stuff like that ;)
-- 🌱 I’m currently learning ASP.NET Core 
 - 📫 How to reach me - https://www.linkedin.com/in/sergey-mkrtumyan/
 
 <!---
