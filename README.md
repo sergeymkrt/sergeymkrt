@@ -4,6 +4,7 @@
 
 
 [![Sergeymkrt's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeymkrt)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeymkrt&hide=TeX&layout=compact)
 
 <!---
 sergeymkrt/sergeymkrt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
