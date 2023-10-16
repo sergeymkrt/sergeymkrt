@@ -22,6 +22,10 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
+[![My GitHub stats](https://readme-stats-nu-beige.vercel.app/api?username=sergeymkrt&show_icons=true&theme=radical)](https://github.com/sergeymkrt/readme-stats)
+
+[![Top Langs](https://readme-stats-nu-beige.vercel.app/api/top-langs/?username=sergeymkrt&layout=donut&theme=radical)](https://github.com/sergeymkrt/readme-stats)
+
 <!-- ![Sergeymkrt's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeymkrt&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeymkrt&hide=TeX&layout=compact) -->
 
