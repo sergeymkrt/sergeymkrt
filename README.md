@@ -2,6 +2,8 @@
 - 💻 I'm C# .NET Experienced Backend Developer , specialized in WEB APIs
 - 📫 How to reach me - https://www.linkedin.com/in/sergey-mkrtumyan/
 
+Using github mostly for personal projects.
+Main work is in Azure DevOps
 
 **Languages and Tools:** 
 
